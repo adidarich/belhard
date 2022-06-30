@@ -6,4 +6,3 @@ print(text_exp)
 
 book = "Digital computers based on manipulating discrete binary digits"
 print(book.replace(' ', '-'))
-
