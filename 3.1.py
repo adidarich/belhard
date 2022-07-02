@@ -5,8 +5,8 @@ print(example)
 print(text.replace(' ', '-'))
 
 
-#example = text_exp.split(' ')
-#text_exp = "-".join(example)
-#print(text_exp)
+#example = text.split(' ')
+#text = "-".join(example)
+#print(text)
 
 
