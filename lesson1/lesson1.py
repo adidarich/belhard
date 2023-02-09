@@ -2,7 +2,7 @@
 
 user: str = input('Write Sentence >>> ')
 
-print(user.replace(' ', '-'))
+#print(user.replace(' ', '-'))
 
 print('-'.join(user.split(' ')))
 
